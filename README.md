@@ -4,7 +4,8 @@
 ##  全栈学习中
 希望有朝一日自己也可以做出有趣的东西
 
- 
+ <!-- ![Visitor Count](https://profile-counter.glitch.me/chitanderu/count.svg)/·  -->
+<img align="right" src="https://count.getloli.com/get/@:chitanderu?theme=rule34">
  
 ### **技术栈:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
