@@ -11,6 +11,7 @@
 <a href="https://reactjs.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
 <a href="https://www.typescriptlang.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></a>
 <a href="https://vuejs.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code></a>
+<a href="https://www.djangoproject.com/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code></a>
  
 <!-- ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=Chitanderu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
