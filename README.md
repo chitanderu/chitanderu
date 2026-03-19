@@ -3,6 +3,7 @@
 
 ##  全栈学习中
 希望有朝一日自己也可以做出有趣的东西
+
  
  
 ### **技术栈:**
@@ -18,6 +19,8 @@
 <!-- ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue) -->
  
 ![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitanderu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitanderu&layout=compact&theme=tokyonight)
  
 ![](https://img.shields.io/badge/星座-金牛-blue)
 ![](https://img.shields.io/badge/MBTI-INFP-a)
