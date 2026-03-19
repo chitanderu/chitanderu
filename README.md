@@ -6,12 +6,12 @@
  
  
 ### **技术栈:**
-<a href="https://fastapi.tiangolo.com/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></a>
-<a href="https://vuejs.org/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code></a>
-<a href="https://www.djangoproject.com/"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code></a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
  
 <!-- ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=Chitanderu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
